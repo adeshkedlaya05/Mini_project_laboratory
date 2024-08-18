@@ -1,0 +1,12 @@
+<resources>
+    <color name="primaryColor">#00796B</color> <!-- A green color -->
+    <color name="primaryDarkColor">#004D40</color>
+    <color name="secondaryColor">#64FFDA</color> <!-- A light teal color -->
+    <color name="secondaryDarkColor">#1DE9B6</color>
+    <color name="backgroundColor">#E0F2F1</color> <!-- Light background color -->
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="onSurfaceColor">#000000</color>
+    <color name="errorColor">#B71C1C</color>
+    <color name="buttonColor">#004D40</color> <!-- Button color -->
+    <color name="white">#FFFFFF</color>
+</resources>
